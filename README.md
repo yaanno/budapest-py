@@ -9,7 +9,13 @@ In a few steps I'll build a nice environment management in general and
 specific environments to go with different Python versions, packages
 or even projects.
 
-## What the hell for?
+## What the hell for? I have bash scripts to do this!
+
+I'm sure you had to develop on different workstations, platforms, versions
+and server environments and finally you have a well settled system you don't
+want to ruin with experimental software and so on. With a few useful tools 
+you can make your life easier without giving up the development mental flow
+and the system integrity of yours.
 
 ## Basic requirements
 
