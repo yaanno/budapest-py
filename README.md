@@ -60,7 +60,11 @@ http://pypi.python.org/pypi/virtualenvwrapper
 
 ### Testing
 
+
+
 ### Deployment
+
+http://docs.fabfile.org/0.9.0/
 
 ## Useful links
 
