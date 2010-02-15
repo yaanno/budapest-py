@@ -21,14 +21,14 @@ or even projects.
 ### Python
 
 On modern systems you'll have at least two Python versions: 2.5 and 2.6,
-but older ones are to go as well.
+but older ones are to go as well. NB: I won't cover Windows specific issues,
+sorry.
 
 ### easy_install
 
 We'll use this to grab the necessary packages for the next steps and
-forget it immediately. If you don't have easy_install, download setuptools
-from PyPI [http://pypi.python.org/pypi/setuptools](http://pypi.python.org/pypi/setuptools)
-and install it the normal way with 
+forget it immediately. If you don't have easy_install, download [setuptools](http://pypi.python.org/pypi/setuptools)
+from PyPI and install it the normal way with 
     python setup.py install
 after unpacking.
 
@@ -40,7 +40,7 @@ with easy_install, do an
 
 ### pip
 
-[pip](http://pypi.python.org/pypi/pip/) is a great and nice package management tool that deserver attention from
+[pip](http://pypi.python.org/pypi/pip/) is a great and nice package management tool that deserve attention from
 every Python developer, so lets put it into the site-packages immediately:
     easy_install pip
 
