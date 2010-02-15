@@ -54,7 +54,7 @@ with easy_install, do an
 
 ### Environment(s)
 
-http://pypi.python.org/pypi/virtualenvwrapper
+Handling a number of multiple virtual environments can be a major pain - but there is hope, called [virtualenvwrapper](http://pypi.python.org/pypi/virtualenvwrapper).
 
 ### Debugging
 
