@@ -11,11 +11,12 @@ or even projects.
 
 ## What the hell for?
 
-## Requirements
+## Basic requirements
 
 * Python (obviously)
 * easy_install
 * virtualenv
+* pip
 
 ### Python
 
@@ -33,9 +34,15 @@ after unpacking.
 
 ### virtualenv
 
-We'll use virtualenv for its coolness extensively, so after you went along
+We'll use [virtualenv](http://pypi.python.org/pypi/virtualenv/) for its coolness extensively, so after you went along
 with easy_install, do an 
     easy_install virtualenv
+
+### pip
+
+[pip](http://pypi.python.org/pypi/pip/) is a great and nice package management tool that deserver attention from
+every Python developer, so lets put it into the site-packages immediately:
+    easy_install pip
 
 ## Building steps
 
