@@ -26,8 +26,8 @@ but older ones are to go as well.
 
 We'll use this to grab the necessary packages for the next steps and
 forget it immediately. If you don't have easy_install, download setuptools
-from PyPI http://pypi.python.org/pypi/setuptools and install it the normal
-way with 
+from PyPI [http://pypi.python.org/pypi/setuptools](http://pypi.python.org/pypi/setuptools)
+and install it the normal way with 
     python setup.py install
 after unpacking.
 
