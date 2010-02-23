@@ -56,6 +56,12 @@ with easy_install, do an
 
 Handling a number of multiple virtual environments can be a major pain - but there is hope, called [virtualenvwrapper](http://pypi.python.org/pypi/virtualenvwrapper).
 
+Setup is really easy, please consult the docs. After you installed the wrapper, play around a little to catch up with the commands.
+
+Here is my modifications for virtualenvwrapper's global hook, postmkviertualenv: [http://gist.github.com/312660](http://gist.github.com/312660)
+
+Nothing fancy, you can select a minimal or an advanced django development setup using one of my requirement files.
+
 ### Debugging
 
 ### Testing
