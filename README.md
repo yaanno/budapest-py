@@ -60,6 +60,8 @@ Setup is really easy, please consult the docs. After you installed the wrapper, 
 Here is my modifications for virtualenvwrapper's global hook, postmkvirtualenv: [http://gist.github.com/312660](http://gist.github.com/312660)
 Nothing fancy, you can select a minimal or an advanced django development setup using one of my requirement files.
 
+An other little modification just for demostrative purposes: [http://gist.github.com/312698](http://gist.github.com/312698) - it creates automatically a Projects directory and / or change to there.
+
 ### Debugging
 
 I found [django-devserver](http://github.com/dcramer/django-devserver) pretty nice with the optional packages like Werkzeug, guppy and sqlparse.
