@@ -1,2 +1,5 @@
 Django
 django-devserver
+sqlparse
+werkzeug
+guppy
