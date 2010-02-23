@@ -1,7 +1,3 @@
 bpython
 yolk
 Django
-django-devserver
-sqlparse
-werkzeug
-guppy

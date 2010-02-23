@@ -1,0 +1,11 @@
+bpython
+yolk
+Django
+django-devserver
+sqlparse
+werkzeug
+guppy
+south
+fabric
+nose
+windmill

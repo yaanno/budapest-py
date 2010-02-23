@@ -55,22 +55,18 @@ with easy_install, do an
 ### Environment(s)
 
 Handling a number of multiple virtual environments can be a major pain - but there is hope, called [virtualenvwrapper](http://pypi.python.org/pypi/virtualenvwrapper).
-
 Setup is really easy, please consult the docs. After you installed the wrapper, play around a little to catch up with the commands.
 
-Here is my modifications for virtualenvwrapper's global hook, postmkviertualenv: [http://gist.github.com/312660](http://gist.github.com/312660)
-
+Here is my modifications for virtualenvwrapper's global hook, postmkvirtualenv: [http://gist.github.com/312660](http://gist.github.com/312660)
 Nothing fancy, you can select a minimal or an advanced django development setup using one of my requirement files.
 
 ### Debugging
 
-### Testing
-
-
+I found [django-devserver](http://github.com/dcramer/django-devserver) pretty nice with the optional packages like Werkzeug, guppy and sqlparse.
 
 ### Deployment
 
-http://docs.fabfile.org/0.9.0/
+[Fabric](http://docs.fabfile.org/0.9.0/) is a simple tool to manage your deployments. It has customizable pre and post hooks sou you can run your apache reload scripts seamlessly.
 
 ## Useful links
 
